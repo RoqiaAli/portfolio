@@ -1,0 +1,35 @@
+@import url(https://fonts.google.com/);
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+   background-color: #f2f2f2 ;
+   color: #000000;
+   display: flex;
+   justify-content: center;
+   font-size: 25px;
+   margin-top: 8em;
+   margin-bottom: 10em;
+   padding-bottom: 10em;
+}
+
+h1 {
+    color: #c9bbbb;
+}
+
+
+button {
+    justify-content: right;
+    width: 70px;
+    color: #000000;
+    margin-top: 8em;
+    border-style: none;
+    padding: 1em  1em;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+}
